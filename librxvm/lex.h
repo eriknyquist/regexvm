@@ -1,5 +1,5 @@
-#ifndef LEX_H
-#define LEX_H
+#ifndef RXVM_LEX_H
+#define RXVM_LEX_H
 
 #define PRINTABLE_LOW        ' '  /* ASCII 0x20 */
 #define PRINTABLE_HIGH       '~'  /* ASCII 0x7E */

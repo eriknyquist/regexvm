@@ -1,5 +1,5 @@
-#ifndef VM_H
-#define VM_H
+#ifndef RXVM_VM_H
+#define RXVM_VM_H
 
 extern const int udiff;
 

@@ -1,5 +1,5 @@
-#ifndef STACK_H
-#define STACK_H
+#ifndef RXVM_STACK_H
+#define RXVM_STACK_H
 
 ir_stack_t *create_stack (void);
 stackitem_t *stack_add_head (ir_stack_t *stack, void *data);
