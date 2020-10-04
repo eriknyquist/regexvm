@@ -1,5 +1,5 @@
-#ifndef LFIX_H
-#define LFIX_H
+#ifndef RXVM_LFIX_H
+#define RXVM_LFIX_H
 
 void lfix_zero (void);
 void lfix_start (char *orig, char *lp1);

@@ -1,5 +1,5 @@
-#ifndef SETOP_H
-#define SETOP_H
+#ifndef RXVM_SETOP_H
+#define RXVM_SETOP_H
 
 void set_op_class (inst_t *inst, char *ccs);
 void set_op_nclass (inst_t *inst, char *ccs);

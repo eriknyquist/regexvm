@@ -1,5 +1,5 @@
-#ifndef VMCODE_H
-#define VMCODE_H
+#ifndef RXVM_VMCODE_H
+#define RXVM_VMCODE_H
 
 stackitem_t *stack_add_inst_head (ir_stack_t *stack, inst_t *inst);
 void attach_dangling_alt (context_t *cp);

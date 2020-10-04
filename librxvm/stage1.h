@@ -1,5 +1,5 @@
-#ifndef STAGE1_H
-#define STAGE1_H
+#ifndef RXVM_STAGE1_H
+#define RXVM_STAGE1_H
 
 struct context {
     strb_t strb;
